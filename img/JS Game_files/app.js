@@ -21,4 +21,4 @@
 // let palavraTentativa = tentativas > 1 ? 'tentativas' : 'tentativa' 
 // alert(`O número secreto era ${numeroSecreto} e você acertou com apenas ${tentativas} ${palavraTentativa}`)
 
-// 10/07/24
+// 09/07/24
